@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Julie's slide from the desktop app."
 ---
 
 This is Julie's slide.
